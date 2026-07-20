@@ -1,0 +1,5 @@
+/dist/
+/pawndoc
+*.exe
+*.out
+*.test
