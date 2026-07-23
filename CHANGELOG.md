@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.2 - 2026-07-23
+
+- Updated analysis and project dependencies.
+
 ## 0.1.1 - 2026-07-23
 
 - Updated project discovery and Pawn analysis dependencies.
