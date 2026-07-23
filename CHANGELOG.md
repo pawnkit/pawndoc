@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3 - 2026-07-23
+
+- Updated to the current analysis and project releases.
+
 ## 0.1.2 - 2026-07-23
 
 - Updated analysis and project dependencies.
