@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.1.4 - 2026-07-24
+
+- Updated the analysis dependency to v0.1.15, which removes duplicate work
+  and a quadratic scan from large-file analysis.
+
 ## 0.1.3 - 2026-07-23
 
 - Updated to the current analysis and project releases.
