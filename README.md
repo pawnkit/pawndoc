@@ -1,5 +1,7 @@
 # pawndoc
 
+[![Maturity: preview](https://img.shields.io/badge/maturity-preview-blue)](.pawnkit/support.json)
+
 `pawndoc` turns Pawn comments into Markdown, HTML, JSON, or a compact search
 index. It understands the XML-style comments already used by Pawn libraries, so
 projects do not need to adopt another documentation format.

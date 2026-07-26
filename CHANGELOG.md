@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.5 - 2026-07-25
+
+- Added the repository support record with CI validation.
+
 ## 0.1.4 - 2026-07-24
 
 - Updated the analysis dependency to v0.1.15, which removes duplicate work
