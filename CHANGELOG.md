@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.6 - 2026-08-02
+
+- Use the current PawnKit parser, analysis, project, and core releases.
+
 ## 0.1.5 - 2026-07-25
 
 - Added the repository support record with CI validation.
