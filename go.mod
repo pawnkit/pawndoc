@@ -3,13 +3,13 @@ module github.com/pawnkit/pawndoc
 go 1.26.5
 
 require (
-	github.com/pawnkit/pawn-analysis v0.30.11
+	github.com/pawnkit/pawn-analysis v0.30.12
 	github.com/pawnkit/pawn-project v0.34.2
 	github.com/pawnkit/pawnkit-core v0.5.0
 )
 
 require (
-	github.com/pawnkit/pawn-parser v1.5.8 // indirect
+	github.com/pawnkit/pawn-parser v1.5.9 // indirect
 	golang.org/x/mod v0.38.0 // indirect
 	golang.org/x/sync v0.22.0 // indirect
 	golang.org/x/sys v0.47.0 // indirect

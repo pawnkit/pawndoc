@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.9 - 2026-08-02
+
+- Use pawn-parser v1.5.9 through the current analysis release.
+
 ## 0.1.8 - 2026-08-02
 
 - Use pawn-analysis 0.30.11 for incremental function-effect data.
