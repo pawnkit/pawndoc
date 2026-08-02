@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.8 - 2026-08-02
+
+- Use pawn-analysis 0.30.11 for incremental function-effect data.
+
 ## 0.1.7 - 2026-08-02
 
 - Use pawn-analysis 0.30.10 for function-effect data.

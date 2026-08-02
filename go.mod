@@ -3,7 +3,7 @@ module github.com/pawnkit/pawndoc
 go 1.26.5
 
 require (
-	github.com/pawnkit/pawn-analysis v0.30.10
+	github.com/pawnkit/pawn-analysis v0.30.11
 	github.com/pawnkit/pawn-project v0.34.2
 	github.com/pawnkit/pawnkit-core v0.5.0
 )
