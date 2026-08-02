@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.7 - 2026-08-02
+
+- Use pawn-analysis 0.30.10 for function-effect data.
+
 ## 0.1.6 - 2026-08-02
 
 - Use the current PawnKit parser, analysis, project, and core releases.
