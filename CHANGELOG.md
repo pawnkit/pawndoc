@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.12 - 2026-08-04
+
+- Use pawn-analysis v0.30.24.
+
 ## 0.1.11 - 2026-08-03
 
 - Use pawn-analysis v0.30.22 and pawn-parser v1.5.11.
